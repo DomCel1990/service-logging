@@ -1,0 +1,6 @@
+firstVariable: 2
+secondVariable: 8
+logging.level.root: INFO
+logging.level.services: DEBUG
+spring.output.ansi.enabled: ALWAYS
+
